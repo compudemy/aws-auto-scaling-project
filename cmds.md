@@ -15,3 +15,14 @@ Install Git
 ```bash
     sudo yum install -y git
 ```
+
+Check node version
+
+```bash
+    node -v
+```
+
+
+```bash
+    git clone https://github.com/compudemy/aws-auto-scaling-project.git
+```
