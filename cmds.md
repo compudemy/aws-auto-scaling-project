@@ -22,7 +22,14 @@ Check node version
     node -v
 ```
 
+Clone Project from github
 
 ```bash
     git clone https://github.com/compudemy/aws-auto-scaling-project.git
+```
+
+Run Application
+
+```bash
+    node app.js
 ```
