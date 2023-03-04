@@ -33,3 +33,9 @@ Run Application
 ```bash
     node app.js
 ```
+
+Install dependencies
+
+```bash
+    npm install
+```
