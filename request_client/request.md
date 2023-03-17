@@ -27,13 +27,15 @@
 
 ### On Mac
 
-```bash
+```python
     python3 --version
 ```
 
 Install the python Extension in vs code
 
-![python-preview-vscode](preview.png "Text to show on mouseover").
+<!-- ![python-preview-vscode](preview.png). -->
+
+![gify](preview.png)
 
 ---------------------------------------
 
