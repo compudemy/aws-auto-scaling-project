@@ -18,7 +18,4 @@ if __name__ == "__main__":
         p.map(send_request, range(150))
 
 
-
-# https://cloudwatch.amazonaws.com/dashboard.html?dashboard=ApiGatewayTraffic&context=eyJSIjoidXMtZWFzdC0xIiwiRCI6ImN3LWRiLTEwNzk2Njk0NzUzOCIsIlUiOiJ1cy1lYXN0LTFfQ0kzSTVJeDJiIiwiQyI6IjFtNTExZ2Q4aTVuaWJvdWkyOGFocW5kMnE4IiwiSSI6InVzLWVhc3QtMTowYTdmZTI3NS1jZDA0LTRjM2ItYjI4Yi1iMzVjNWVhN2FhYWQiLCJPIjoiYXJuOmF3czppYW06OjEwNzk2Njk0NzUzODpyb2xlL3NlcnZpY2Utcm9sZS9DV0RCU2hhcmluZy1SZWFkT25seUFjY2Vzcy1BNzVFVVlJNSIsIk0iOiJVc3JQd1NpbmdsZSJ9&start=PT3H&end=null&autoRefresh=300
-
-        
+# https://cloudwatch.amazonaws.com/dashboard.html?dashboard=ApiGatewayTraffic&context=eyJSIjoidXMtZWFzdC0xIiwiRCI6ImN3LWRiLTEwNzk2Njk0NzUzOCIsIlUiOiJ1cy1lYXN0LTFfQ0kzSTVJeDJiIiwiQyI6IjFtNTExZ2Q4aTVuaWJvdWkyOGFocW5kMnE4IiwiSSI6InVzLWVhc3QtMTowYTdmZTI3NS1jZDA0LTRjM2ItYjI4Yi1iMzVjNWVhN2FhYWQiLCJPIjoiYXJuOmF3czppYW06OjEwNzk2Njk0NzUzODpyb2xlL3NlcnZpY2Utcm9sZS9DV0RCU2hhcmluZy1SZWFkT25seUFjY2Vzcy1BNzVFVVlJNSIsIk0iOiJVc3JQd1NpbmdsZSJ9&start=PT3H&end=null&autoRefresh=300        
