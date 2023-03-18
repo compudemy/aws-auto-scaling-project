@@ -39,3 +39,14 @@ Install dependencies
 ```bash
     npm install
 ```
+
+### Run Stress on PC
+
+```
+sudo amazon-linux-extras install epel -y
+
+sudo yum install stress -y
+
+sudo stress --cpu 8 --vm-bytes $(awk '/MemAvailable/{printf "%d\n", $2 * 0.9;}' < /proc/meminfo)k --vm-keep -m 1
+
+```
